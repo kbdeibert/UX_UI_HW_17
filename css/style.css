@@ -1,0 +1,61 @@
+.nav {
+    display: inline-block;
+}
+.nav_buttons {
+    display: inline-block;
+    color: #ffffff;
+    font-size: 35px;
+    padding: 40px;
+    font-family: 'Jost', sans-serif;
+    padding-left: 20%;
+    justify-content: space-between;
+}
+
+footer {
+    background-color: #2853bc;
+    display: inline-block;
+    justify-content: center;
+    height: 50px;
+    padding: 5%;
+    padding-left: 50%;
+}
+
+#top { 
+    width: 40%;
+    float: none;
+    height: 800px;
+    display: flex;
+    justify-content: center;
+}
+
+#left {
+    float: right;
+    padding-left: 155%;
+}
+
+#right {
+    float: right;
+    padding-left: 10%;
+}
+
+p { 
+    color: #ffffff;
+    font-size: 30px;
+    font-family: 'Jost', sans-serif;
+
+}
+
+h2 {
+    color:#ECB578;
+    font-size: 90px;
+    font-family: 'Alatsi', sans-serif;
+}
+
+body {
+    background-color: #2853bc;
+}
+
+.heroImg {
+    display: center;
+    padding-left: 30%;
+}
